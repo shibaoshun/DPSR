@@ -2,8 +2,7 @@
 # [Deep prior-based sparse representation model for diffraction imaging: A plug-and-play method]
 Authors： Baoshun Shi, Qiusheng Lian,  Huibin Chang
 
-This package is a demo code for the aforementioned paper. A coded diffraction imaging method is provided by using the proposed DPSR model. A demo code for sub-pixel resolution diffraction imaging is provided. 
-
+A coded diffraction imaging method is proposed by using the proposed DPSR model in this paper. A demo code for sub-pixel resolution diffraction imaging is provided in this package.
 
 This paper is submitted to the journal “IEEE Transactions on Computational Imaging”. If you use this code, please contact me. 
 The email address is  shibaoshun@ysu.edu.cn.
